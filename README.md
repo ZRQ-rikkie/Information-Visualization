@@ -1,8 +1,8 @@
-# Information-Visualization
+
+# Visualization of Tree Planting Data in San Francisco
 
 ![image](https://github.com/ZRQ-rikkie/Information-Visualization/assets/74203373/24a6034f-bc6c-4df3-a586-bdd3bc48767b)
 
-# Visualization of Tree Planting Data in San Francisco
 
 ## Dataset Overview
 
